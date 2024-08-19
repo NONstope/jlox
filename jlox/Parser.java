@@ -1,2 +1,4 @@
-package jlox;public class Parser {
+package jlox;
+
+public class Parser {
 }
